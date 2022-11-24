@@ -4,6 +4,11 @@
       "name": "Beginner",
       "tutorials": [
         {
+          "title": "HTML Crash Course For Absolute Beginners",
+          "url": "https://www.youtube.com/watch?v=UB1O30fR-EE",
+          "thumbnail": "https://img.youtube.com/vi/UB1O30fR-EE/0.jpg"
+        },
+        {
           "title": "CSS Crash Course For Absolute Beginners",
           "url": "https://www.youtube.com/watch?v=yfoY53QXEnI",
           "thumbnail": "https://img.youtube.com/vi/yfoY53QXEnI/0.jpg"
