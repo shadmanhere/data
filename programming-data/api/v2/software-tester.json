@@ -129,6 +129,56 @@
           "title": "Software Testing Tutorial #20 - Black Box Testing vs White Box Testing",
           "url": "https://www.youtube.com/watch?v=sfsrH2wZ9qY",
           "thumbnail": "https://img.youtube.com/vi/sfsrH2wZ9qY/0.jpg"
+        },
+        {
+          "title": "Software Testing Tutorial #21 - What is Non Functional Testing",
+          "url": "https://www.youtube.com/watch?v=MfRG41f9JAc",
+          "thumbnail": "https://img.youtube.com/vi/MfRG41f9JAc/0.jpg"
+        },
+        {
+          "title": "Software Testing Tutorial #22 - Functional Testing vs Non Functional Testing",
+          "url": "https://www.youtube.com/watch?v=x4KSkhNqB3s",
+          "thumbnail": "https://img.youtube.com/vi/x4KSkhNqB3s/0.jpg"
+        },
+        {
+          "title": "Software Testing Tutorial #23 - What is Regression Testing",
+          "url": "https://www.youtube.com/watch?v=xF1Jp_6ZRWw",
+          "thumbnail": "https://img.youtube.com/vi/xF1Jp_6ZRWw/0.jpg"
+        },
+        {
+          "title": "Software Testing Tutorial #24 - Regression Testing in Agile Development",
+          "url": "https://www.youtube.com/watch?v=IQ8dSxQcJyE",
+          "thumbnail": "https://img.youtube.com/vi/IQ8dSxQcJyE/0.jpg"
+        },
+        {
+          "title": "Software Testing Tutorial #25 - Retesting Vs Regression Testing",
+          "url": "https://www.youtube.com/watch?v=oyoEqZSjhWc",
+          "thumbnail": "https://img.youtube.com/vi/oyoEqZSjhWc/0.jpg"
+        },
+        {
+          "title": "Software Testing Tutorial #26 - Smoke Testing Vs Sanity Testing",
+          "url": "https://www.youtube.com/watch?v=h6STkbe25dU",
+          "thumbnail": "https://img.youtube.com/vi/h6STkbe25dU/0.jpg"
+        },
+        {
+          "title": "Software Testing Tutorial #27 - Verification and Validation in Software Testing",
+          "url": "https://www.youtube.com/watch?v=UeMBhDwmOrE",
+          "thumbnail": "https://img.youtube.com/vi/UeMBhDwmOrE/0.jpg"
+        },
+        {
+          "title": "Software Testing Tutorial #28 - End to End Testing in Software Testing",
+          "url": "https://www.youtube.com/watch?v=WVW4r2QWZkw",
+          "thumbnail": "https://img.youtube.com/vi/WVW4r2QWZkw/0.jpg"
+        },
+        {
+          "title": "Software Testing Tutorial #29 - What is Exploratory Testing",
+          "url": "https://www.youtube.com/watch?v=PohaPW33Q7o",
+          "thumbnail": "https://img.youtube.com/vi/PohaPW33Q7o/0.jpg"
+        },
+        {
+          "title": "Software Testing Tutorial #30 - What is a Test Case",
+          "url": "https://www.youtube.com/watch?v=oYwijhYMYMw",
+          "thumbnail": "https://img.youtube.com/vi/oYwijhYMYMw/0.jpg"
         }
       ]
     }
