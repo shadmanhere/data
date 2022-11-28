@@ -1,0 +1,87 @@
+[
+    {
+      "section": {
+        "name": "Essentials",
+        "tutorials": [
+          {
+            "title": "Java Tutorial for Beginners",
+            "url": "https://www.youtube.com/watch?v=eIrMbAQSU34",
+            "thumbnail": "https://img.youtube.com/vi/eIrMbAQSU34/0.jpg"
+          },
+          {
+            "title": "Learn Java 8 - Full Tutorial for Beginners",
+            "url": "https://www.youtube.com/watch?v=grEKMHGYyns",
+            "thumbnail": "https://img.youtube.com/vi/grEKMHGYyns/0.jpg"
+          },
+          {
+            "title": "SQL Tutorial - Full Database Course for Beginners",
+            "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+            "thumbnail": "https://img.youtube.com/vi/HXV3zeQKqGY/0.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "section": {
+        "name": "Manual Testing",
+        "tutorials": [
+          {
+            "title": "Software Testing Tutorial Introduction and Course Topics - Software Testing Bootcamp",
+            "url": "https://www.youtube.com/watch?v=E2t5XbWwj7I",
+            "thumbnail": "https://img.youtube.com/vi/E2t5XbWwj7I/0.jpg"
+          },
+          {
+            "title": "Software Testing Tutorial #1 - What is Software Testing | With Examples",
+            "url": "https://www.youtube.com/watch?v=qQfFp_GORpY",
+            "thumbnail": "https://img.youtube.com/vi/qQfFp_GORpY/0.jpg"
+          },
+          {
+            "title": "Software Testing Tutorial #2 - What is Manual Testing | With Examples",
+            "url": "https://www.youtube.com/watch?v=MoQMRVXs",
+            "thumbnail": "https://img.youtube.com/vi/MoQMRVXs/0.jpg"
+          },
+          {
+            "title": "Software Testing Tutorial #3 - Objectives of Software Testing",
+            "url": "https://www.youtube.com/watch?v=zxnaG2iBves",
+            "thumbnail": "https://img.youtube.com/vi/zxnaG2iBves/0.jpg"
+          },
+          {
+            "title": "Software Testing Tutorial #4 - Importance of Software Testing",
+            "url": "https://www.youtube.com/watch?v=TTBNMH8igEU",
+            "thumbnail": "https://img.youtube.com/vi/TTBNMH8igEU/0.jpg"
+          },
+          {
+            "title": "Software Testing Tutorial #5 - Seven Principles of Software Testing",
+            "url": "https://www.youtube.com/watch?v=Tmh5cRGR0bg",
+            "thumbnail": "https://img.youtube.com/vi/Tmh5cRGR0bg/0.jpg"
+          },
+          {
+            "title": "Software Testing Tutorial #6 - Software Development Life Cycle (SDLC)",
+            "url": "https://www.youtube.com/watch?v=PXms5QW4",
+            "thumbnail": "https://img.youtube.com/vi/PXms5QW4/0.jpg"
+          },
+          {
+            "title": "Software Testing Tutorial #7 - Software Testing Life Cycle (STLC)",
+            "url": "https://www.youtube.com/watch?v=Kf-XaEkvPLw",
+            "thumbnail": "https://img.youtube.com/vi/Kf-XaEkvPLw/0.jpg"
+          },
+          {
+            "title": "Software Testing Tutorial #8 - Waterfall Model in Software Engineering",
+            "url": "https://www.youtube.com/watch?v=R7RzaLAl99k",
+            "thumbnail": "https://img.youtube.com/vi/R7RzaLAl99k/0.jpg"
+          },
+          {
+            "title": "Software Testing Tutorial #9 - V Model in Software Engineering",
+            "url": "https://www.youtube.com/watch?v=xmrTO6yt14g",
+            "thumbnail": "https://img.youtube.com/vi/xmrTO6yt14g/0.jpg"
+          },
+          {
+            "title": "Software Testing Tutorial #10 - Iterative Model in Software Engineering",
+            "url": "https://www.youtube.com/watch?v=u0a0necERpw",
+            "thumbnail": "https://img.youtube.com/vi/u0a0necERpw/0.jpg"
+          }
+        ]
+      }
+    }
+  ]
+  
