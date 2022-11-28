@@ -272,5 +272,32 @@
         }
       ]
     }
+  },
+  {
+    "section": {
+      "name": "API Testing",
+      "tutorials": [
+        {
+          "title": "Session1: Introduction to API Testing",
+          "url": "https://www.youtube.com/watch?v=vCJVFnepECc",
+          "thumbnail": "https://img.youtube.com/vi/vCJVFnepECc/0.jpg"
+        },
+        {
+          "title": "Session 2: API Testing | Postman | Environment Setup & Types of HTTP Requests",
+          "url": "https://www.youtube.com/watch?v=zisAGm5I-Yw",
+          "thumbnail": "https://img.youtube.com/vi/zisAGm5I-Yw/0.jpg"
+        },
+        {
+          "title": "Session 3: API Testing | Postman | How To Create Own API's | JSON (Java Script Object Notation)",
+          "url": "https://www.youtube.com/watch?v=tnpqR7Ar-BQ",
+          "thumbnail": "https://img.youtube.com/vi/tnpqR7Ar-BQ/0.jpg"
+        },
+        {
+          "title": "Session 4: API Testing | Postman | API Response Validations | Different types of Assertions",
+          "url": "https://www.youtube.com/watch?v=B5XSpX7cxcY",
+          "thumbnail": "https://img.youtube.com/vi/B5XSpX7cxcY/0.jpg"
+        }
+      ]
+    }
   }
 ]
