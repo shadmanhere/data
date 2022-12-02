@@ -305,52 +305,47 @@
       "name": "Database Testing",
       "tutorials": [
         {
-          "title": "Part1- Database Testing Overview | Backend Testing | Practical Approach",
+          "title": "Part 1- Database Testing Overview | Backend Testing | Practical Approach",
           "url": "https://www.youtube.com/watch?v=Q3SnLBVWOGI",
           "thumbnail": "https://img.youtube.com/vi/Q3SnLBVWOGI/0.jpg"
         },
         {
-          "title": "Part2 : Database Testing | Environment Setup",
+          "title": "Part 2 : Database Testing | Environment Setup",
           "url": "https://www.youtube.com/watch?v=MiihLu66ERI",
           "thumbnail": "https://img.youtube.com/vi/MiihLu66ERI/0.jpg"
         },
         {
-          "title": "Part3 : Database Testing | How To Test Schema of Database Table | Test Cases",
+          "title": "Part 3 : Database Testing | How To Test Schema of Database Table | Test Cases",
           "url": "https://www.youtube.com/watch?v=R8TI86wJhN4",
           "thumbnail": "https://img.youtube.com/vi/R8TI86wJhN4/0.jpg"
         },
         {
-          "title": "Part4 : Database Testing | Stored Procedure Testing | How To Develop and Test Stored Procedures",
+          "title": "Part 4 : Database Testing | Stored Procedure Testing | How To Develop and Test Stored Procedures",
           "url": "https://www.youtube.com/watch?v=gzZwsBWshiU",
           "thumbnail": "https://img.youtube.com/vi/gzZwsBWshiU/0.jpg"
         },
         {
-          "title": "Part4 : Database Testing | Stored Procedure Testing | How To Develop and Test Stored Procedures",
-          "url": "https://www.youtube.com/watch?v=gzZwsBWshiU",
-          "thumbnail": "https://img.youtube.com/vi/gzZwsBWshiU/0.jpg"
-        },
-        {
-          "title": "Part5 : Database Testing | Stored Procedure Testing | How To Test Stored Procedures",
+          "title": "Part 5 : Database Testing | Stored Procedure Testing | How To Test Stored Procedures",
           "url": "https://www.youtube.com/watch?v=-FZo3BolyT0",
           "thumbnail": "https://img.youtube.com/vi/-FZo3BolyT0/0.jpg"
         },
         {
-          "title": "Part6 : Database Testing | Stored Procedure Testing | How To Automate SQL Stored Procedures",
+          "title": "Part 6 : Database Testing | Stored Procedure Testing | How To Automate SQL Stored Procedures",
           "url": "https://www.youtube.com/watch?v=Taatw2rKVto",
           "thumbnail": "https://img.youtube.com/vi/Taatw2rKVto/0.jpg"
         },
         {
-          "title": "Part7 : Database Testing | Stored Procedure Testing | How To Automate SQL Stored Procedures",
+          "title": "Part 7 : Database Testing | Stored Procedure Testing | How To Automate SQL Stored Procedures",
           "url": "https://www.youtube.com/watch?v=hW5bP_o-IJw",
           "thumbnail": "https://img.youtube.com/vi/hW5bP_o-IJw/0.jpg"
         },
         {
-          "title": "Part8: Database Testing | Stored Functions Testing",
+          "title": "Part 8: Database Testing | Stored Functions Testing",
           "url": "https://www.youtube.com/watch?v=OFTCZJ1nyJI",
           "thumbnail": "https://img.youtube.com/vi/OFTCZJ1nyJI/0.jpg"
         },
         {
-          "title": "Part9: Database Testing | Stored Functions Testing | How To Test Stored Functions",
+          "title": "Part 9: Database Testing | Stored Functions Testing | How To Test Stored Functions",
           "url": "https://www.youtube.com/watch?v=IGzHYcUavss",
           "thumbnail": "https://img.youtube.com/vi/IGzHYcUavss/0.jpg"
         },
@@ -358,6 +353,36 @@
           "title": "Part 10 : Database Testing | Stored Functions Testing | How To Automate SQL Stored Functions",
           "url": "https://www.youtube.com/watch?v=WBjgChox7vQ",
           "thumbnail": "https://img.youtube.com/vi/WBjgChox7vQ/0.jpg"
+        },
+        {
+          "title": "Part 11 : Database Testing | Triggers Testing | Types Of Triggers | Test Cases",
+          "url": "https://www.youtube.com/watch?v=qE4hiSDtqGA",
+          "thumbnail": "https://img.youtube.com/vi/qE4hiSDtqGA/0.jpg"
+        },
+        {
+          "title": "Part 12 : Database Testing | Triggers Testing | Before Update & After Update",
+          "url": "https://www.youtube.com/watch?v=p8w3SomAFVw",
+          "thumbnail": "https://img.youtube.com/vi/p8w3SomAFVw/0.jpg"
+        },
+        {
+          "title": "Part 13 : Database Testing | Triggers Testing | Before Delete& After Delete",
+          "url": "https://www.youtube.com/watch?v=HTKLRTfNOb0",
+          "thumbnail": "https://img.youtube.com/vi/HTKLRTfNOb0/0.jpg"
+        },
+        {
+          "title": "Part 14 : Database Testing | Data Mapping Testing | CRUD Operations | Grey Box Testing",
+          "url": "https://www.youtube.com/watch?v=jIIWqvspdZw",
+          "thumbnail": "https://img.youtube.com/vi/jIIWqvspdZw/0.jpg"
+        },
+        {
+          "title": "Part 15 : Database Testing | ACID Properties | A-Atomic | C-Consistent | I-Isolated | D-Durable",
+          "url": "https://www.youtube.com/watch?v=nFV97RKz8ls",
+          "thumbnail": "https://img.youtube.com/vi/nFV97RKz8ls/0.jpg"
+        },
+        {
+          "title": "Part 16 : Database Testing | Data Integrity Testing | Integrity Constraints",
+          "url": "https://www.youtube.com/watch?v=hn4SPMakHC4",
+          "thumbnail": "https://img.youtube.com/vi/hn4SPMakHC4/0.jpg"
         }
       ]
     }
