@@ -26,9 +26,14 @@
       "name": "Intermediate",
       "tutorials": [
         {
+          "title": "Spring Boot - Learn Spring Boot 3 (2 Hours)",
+          "url": "https://www.youtube.com/watch?v=-mwpoE0x0JQ",
+          "thumbnail": "https://img.youtube.com/vi/-mwpoE0x0JQ/0.jpg"
+        },
+        {
           "title": "Spring Boot Tutorial | Full Course [2022] [NEW]",
-          "url": "https://www.youtube.com/watch?v=9SGDpanrc8U",
-          "thumbnail": "https://img.youtube.com/vi/9SGDpanrc8U/0.jpg"
+          "url": "https://www.youtube.com/watch?v=gHJBRFHKoRk",
+          "thumbnail": "https://img.youtube.com/vi/gHJBRFHKoRk/0.jpg"
         }
       ]
     }
