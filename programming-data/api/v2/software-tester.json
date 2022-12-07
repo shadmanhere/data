@@ -296,6 +296,16 @@
           "title": "Session 4: API Testing | Postman | API Response Validations | Different types of Assertions",
           "url": "https://www.youtube.com/watch?v=B5XSpX7cxcY",
           "thumbnail": "https://img.youtube.com/vi/B5XSpX7cxcY/0.jpg"
+        },
+        {
+          "title": "Session 5: API Testing | Postman | Scripts & Types of Variables",
+          "url": "https://www.youtube.com/watch?v=GZTwJYL53IY",
+          "thumbnail": "https://img.youtube.com/vi/GZTwJYL53IY/0.jpg"
+        },
+        {
+          "title": "Session 6: API Testing | Postman | API Chaining",
+          "url": "https://www.youtube.com/watch?v=rHeoPN-enCI",
+          "thumbnail": "https://img.youtube.com/vi/rHeoPN-enCI/0.jpg"
         }
       ]
     }
