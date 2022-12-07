@@ -396,5 +396,62 @@
         }
       ]
     }
+  },
+  {
+    "section": {
+      "name": "Automation Testing - Selenium Java Training",
+      "tutorials": [
+        {
+          "title": "Selenium Java Training - Session 1 - Introduction to Selenium",
+          "url": "https://www.youtube.com/watch?v=VuB6cc7FKm8",
+          "thumbnail": "https://img.youtube.com/vi/VuB6cc7FKm8/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 2 - Locators",
+          "url": "https://www.youtube.com/watch?v=-YQBwXX47qU",
+          "thumbnail": "https://img.youtube.com/vi/-YQBwXX47qU/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 3 - Java (Part 1) - Getting Started with Java",
+          "url": "https://www.youtube.com/watch?v=ZttyU0v_tQE",
+          "thumbnail": "https://img.youtube.com/vi/ZttyU0v_tQE/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 4 - Java (Part 2) - Variables, Data Types, Literals and Operators",
+          "url": "https://www.youtube.com/watch?v=D67Lr0G7oNEE",
+          "thumbnail": "https://img.youtube.com/vi/D67Lr0G7oNE/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 5 - Java (Part 3) - Flow Control Statements",
+          "url": "https://www.youtube.com/watch?v=_Fq5ViXzTKE",
+          "thumbnail": "https://img.youtube.com/vi/_Fq5ViXzTKE/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 6 - Java (Part 4) - Arrays, Methods and Variables",
+          "url": "https://www.youtube.com/watch?v=8yVGqOcVwSo",
+          "thumbnail": "https://img.youtube.com/vi/8yVGqOcVwSo/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 7 - Java (Part 5) - Classes, Objects, Strings and Wrapper Classes",
+          "url": "https://www.youtube.com/watch?v=qHMFc7xOv8I",
+          "thumbnail": "https://img.youtube.com/vi/qHMFc7xOv8I/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 8 - Java (Part 6) - Constructors, this , Overloading and Packages",
+          "url": "https://www.youtube.com/watch?v=vS_tuvz4WpA",
+          "thumbnail": "https://img.youtube.com/vi/vS_tuvz4WpA/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 9 - Java (Part 7) - Inheritance, Overriding and Modifiers",
+          "url": "https://www.youtube.com/watch?v=LpYtFKuAVVE",
+          "thumbnail": "https://img.youtube.com/vi/LpYtFKuAVVE/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 10 - Java (Part 8) - Interfaces and Exception Handling",
+          "url": "https://www.youtube.com/watch?v=iwG3XShQq4M",
+          "thumbnail": "https://img.youtube.com/vi/iwG3XShQq4M/0.jpg"
+        }
+      ]
+    }
   }
 ]
