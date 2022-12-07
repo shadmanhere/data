@@ -26,19 +26,9 @@
       "name": "Intermediate",
       "tutorials": [
         {
-          "title": "Spring Boot - Learn Spring Boot 3 (2 Hours)",
-          "url": "https://www.youtube.com/watch?v=-mwpoE0x0JQ",
-          "thumbnail": "https://img.youtube.com/vi/-mwpoE0x0JQ/0.jpg"
-        },
-        {
-          "title": "Spring Boot Tutorial | Full Course [2022] [NEW]",
-          "url": "https://www.youtube.com/watch?v=gHJBRFHKoRk",
-          "thumbnail": "https://img.youtube.com/vi/gHJBRFHKoRk/0.jpg"
-        },
-        {
-          "title": "Spring Security Tutorial - [NEW] [2022]",
-          "url": "https://www.youtube.com/watch?v=b9O9NI-RJ3o",
-          "thumbnail": "https://img.youtube.com/vi/b9O9NI-RJ3o/0.jpg"
+          "title": "Spring Boot API with Spring Security and Docker",
+          "url": "https://www.youtube.com/watch?v=0iNmWIi5rG4",
+          "thumbnail": "https://img.youtube.com/vi/0iNmWIi5rG4/0.jpg"
         }
       ]
     }
