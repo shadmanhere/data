@@ -450,6 +450,136 @@
           "title": "Selenium Java Training - Session 10 - Java (Part 8) - Interfaces and Exception Handling",
           "url": "https://www.youtube.com/watch?v=iwG3XShQq4M",
           "thumbnail": "https://img.youtube.com/vi/iwG3XShQq4M/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 11 - Java (Part 9) - Handling Files and Collections Framework",
+          "url": "https://www.youtube.com/watch?v=h9eLOA1ib3I",
+          "thumbnail": "https://img.youtube.com/vi/h9eLOA1ib3I/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 12 - WebDriver Introduction and WebDriver API Commands - Part 1",
+          "url": "https://www.youtube.com/watch?v=1MEsQZgapMk",
+          "thumbnail": "https://img.youtube.com/vi/1MEsQZgapMk/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 13 - WebDriver Part 2 and Executing Scripts on different browsers",
+          "url": "https://www.youtube.com/watch?v=eC0pVYgDwx4",
+          "thumbnail": "https://img.youtube.com/vi/eC0pVYgDwx4/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 14 - Handling Windows, Alerts, Drop-downs & Waiting Mechanism",
+          "url": "https://www.youtube.com/watch?v=t8tpRlgbStU",
+          "thumbnail": "https://img.youtube.com/vi/t8tpRlgbStU/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 15 - XPath Expressions - Cheat-sheet - Part 1",
+          "url": "https://www.youtube.com/watch?v=UCVjDG0ENuc",
+          "thumbnail": "https://img.youtube.com/vi/UCVjDG0ENuc/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 16 - XPath Expressions - Cheat-sheet (Part 2)",
+          "url": "https://www.youtube.com/watch?v=fBKKelcVLEQ",
+          "thumbnail": "https://img.youtube.com/vi/fBKKelcVLEQ/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 17 - CSS Selectors - Cheat-sheet",
+          "url": "https://www.youtube.com/watch?v=oDsCscn07mo",
+          "thumbnail": "https://img.youtube.com/vi/oDsCscn07mo/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 18 - Handling Frames, Lightbox, Actions class and Keys class",
+          "url": "https://www.youtube.com/watch?v=bd7xo5Wst6s",
+          "thumbnail": "https://img.youtube.com/vi/bd7xo5Wst6s/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 19 - Taking Screenshots,Auto suggestive Drop-downs,Tables,Calendar",
+          "url": "https://www.youtube.com/watch?v=GlWB77jEtCk",
+          "thumbnail": "https://img.youtube.com/vi/GlWB77jEtCk/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 20 - Maven, WebDriverManager, End to End scenario & Debugging",
+          "url": "https://www.youtube.com/watch?v=lY-1YGAYfoY",
+          "thumbnail": "https://img.youtube.com/vi/lY-1YGAYfoY/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 21 - TestNG (Part 1)",
+          "url": "https://www.youtube.com/watch?v=uvNdGd2FqUQ",
+          "thumbnail": "https://img.youtube.com/vi/uvNdGd2FqUQ/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 22 - TestNG (Part 2)",
+          "url": "https://www.youtube.com/watch?v=CCr5TgdhMdA",
+          "thumbnail": "https://img.youtube.com/vi/CCr5TgdhMdA/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 23 - TestNG (Part 3)",
+          "url": "https://www.youtube.com/watch?v=0fzFKLVy7uM",
+          "thumbnail": "https://img.youtube.com/vi/0fzFKLVy7uM/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 24 - Grid, Properties (Global Parameters) and SelectorsHub Addon",
+          "url": "https://www.youtube.com/watch?v=Ol771b4Q-fU",
+          "thumbnail": "https://img.youtube.com/vi/Ol771b4Q-fU/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 25 - Maven Commands and Jenkins",
+          "url": "https://www.youtube.com/watch?v=0mt_i6MNhxg",
+          "thumbnail": "https://img.youtube.com/vi/0mt_i6MNhxg/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 26 - Extent Reports and POI API",
+          "url": "https://www.youtube.com/watch?v=qfbZc1IEQNQ",
+          "thumbnail": "https://img.youtube.com/vi/qfbZc1IEQNQ/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 27 - Log4j2 and Accessing Test Data from Database",
+          "url": "https://www.youtube.com/watch?v=4AGzHMjJxEs",
+          "thumbnail": "https://img.youtube.com/vi/4AGzHMjJxEs/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 28 - Page Object Model, Page Factory and AutoIt",
+          "url": "https://www.youtube.com/watch?v=KVwq-k3icIA",
+          "thumbnail": "https://img.youtube.com/vi/KVwq-k3icIA/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 29 - Cucumber and BDD (Part 1)",
+          "url": "https://www.youtube.com/watch?v=sAsNJPIhlMo",
+          "thumbnail": "https://img.youtube.com/vi/sAsNJPIhlMo/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 30 - Cucumber and BDD (Part 2)",
+          "url": "https://www.youtube.com/watch?v=Jjw8Pegl6p4",
+          "thumbnail": "https://img.youtube.com/vi/Jjw8Pegl6p4/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 31 - Cucumber and BDD (Part 3)",
+          "url": "https://www.youtube.com/watch?v=mHw8nR7mlkA",
+          "thumbnail": "https://img.youtube.com/vi/mHw8nR7mlkA/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 32 - Cucumber and BDD (Part 4)",
+          "url": "https://www.youtube.com/watch?v=8s6I4HHPrlE",
+          "thumbnail": "https://img.youtube.com/vi/8s6I4HHPrlE/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 33 - Developing a Framework and Automating Live Project (Part 1)",
+          "url": "https://www.youtube.com/watch?v=Ocdq6osAw64",
+          "thumbnail": "https://img.youtube.com/vi/Ocdq6osAw64/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 34 - Developing a Framework and Automating Live Project (Part 2)",
+          "url": "https://www.youtube.com/watch?v=OTi-J1KHCG0",
+          "thumbnail": "https://img.youtube.com/vi/OTi-J1KHCG0/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 35 - Git, GitHub and SauceLabs",
+          "url": "https://www.youtube.com/watch?v=29DNaIYG7Cg",
+          "thumbnail": "https://img.youtube.com/vi/29DNaIYG7Cg/0.jpg"
+        },
+        {
+          "title": "Selenium Java Training - Session 36 - Congrats for Course Completion - Refer additional videos",
+          "url": "https://www.youtube.com/watch?v=xta6bpOgzUY",
+          "thumbnail": "https://img.youtube.com/vi/xta6bpOgzUY/0.jpg"
         }
       ]
     }
