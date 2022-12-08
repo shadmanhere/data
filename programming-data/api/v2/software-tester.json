@@ -275,6 +275,93 @@
   },
   {
     "section": {
+      "name": "Mobile Testing",
+      "tutorials": [
+        {
+          "title": "What is a Mobile Application? (Mobile Testing - Part 1)",
+          "url": "https://www.youtube.com/watch?v=93jA_phwIEg",
+          "thumbnail": "https://img.youtube.com/vi/93jA_phwIEg/0.jpg"
+        },
+        {
+          "title": "What is Mobile Testing? (Mobile Testing - Part 2)",
+          "url": "https://www.youtube.com/watch?v=RoYrT1byKZo",
+          "thumbnail": "https://img.youtube.com/vi/RoYrT1byKZo/0.jpg"
+        },
+        {
+          "title": "What are Mobile Devices and their types? (Mobile Testing - Part 3)",
+          "url": "https://www.youtube.com/watch?v=GzZlfwebGMI",
+          "thumbnail": "https://img.youtube.com/vi/GzZlfwebGMI/0.jpg"
+        },
+        {
+          "title": "What are the different Mobile Operating System Platform? (Mobile Testing - Part 4)",
+          "url": "https://www.youtube.com/watch?v=fgYNdZVXonE",
+          "thumbnail": "https://img.youtube.com/vi/fgYNdZVXonE/0.jpg"
+        },
+        {
+          "title": "Mobile OS Platforms, OS Versions, Mobile Brands, Devices and Types (Mobile Testing - Part 5)",
+          "url": "https://www.youtube.com/watch?v=nrGV3m_iJbM",
+          "thumbnail": "https://img.youtube.com/vi/nrGV3m_iJbM/0.jpg"
+        },
+        {
+          "title": "Different types of Mobile Applications (Mobile Testing - Part 6)",
+          "url": "https://www.youtube.com/watch?v=9DGPLty_xXs",
+          "thumbnail": "https://img.youtube.com/vi/9DGPLty_xXs/0.jpg"
+        },
+        {
+          "title": "Mobile Enabled Web - Mobile Application Type (Mobile Testing - Part 7)",
+          "url": "https://www.youtube.com/watch?v=C32P3E9nr3g",
+          "thumbnail": "https://img.youtube.com/vi/C32P3E9nr3g/0.jpg"
+        },
+        {
+          "title": "Web Apps - Mobile Application Type (Mobile Testing - Part 8)",
+          "url": "https://www.youtube.com/watch?v=bGdbwbLkLRY",
+          "thumbnail": "https://img.youtube.com/vi/bGdbwbLkLRY/0.jpg"
+        },
+        {
+          "title": "Native Apps - Mobile Application Type (Mobile Testing - Part 9)",
+          "url": "https://www.youtube.com/watch?v=mQywfKFzwP8",
+          "thumbnail": "https://img.youtube.com/vi/mQywfKFzwP8/0.jpg"
+        },
+        {
+          "title": "Hybrid Apps - Mobile Application Type (Mobile Testing - Part 10)",
+          "url": "https://www.youtube.com/watch?v=6_4ioC0YtTM",
+          "thumbnail": "https://img.youtube.com/vi/6_4ioC0YtTM/0.jpg"
+        },
+        {
+          "title": "Mobile App Testing versus Mobile Device Testing (Mobile Testing - Part 11)",
+          "url": "https://www.youtube.com/watch?v=QZnrsNvQ6_0",
+          "thumbnail": "https://img.youtube.com/vi/QZnrsNvQ6_0/0.jpg"
+        },
+        {
+          "title": "Screen Orientation and Mobile App Testing (Mobile Testing - Part 12)",
+          "url": "https://www.youtube.com/watch?v=FyAfG5awD_4",
+          "thumbnail": "https://img.youtube.com/vi/FyAfG5awD_4/0.jpg"
+        },
+        {
+          "title": "Mobile Gestures in Mobile App Testing (Mobile Testing - Part 13)",
+          "url": "https://www.youtube.com/watch?v=Hh2gxkDQHOc",
+          "thumbnail": "https://img.youtube.com/vi/Hh2gxkDQHOc/0.jpg"
+        },
+        {
+          "title": "Splash Screen (Mobile Testing - Part 14)",
+          "url": "https://www.youtube.com/watch?v=alZ7MXCKIfg",
+          "thumbnail": "https://img.youtube.com/vi/alZ7MXCKIfg/0.jpg"
+        },
+        {
+          "title": "Real Devices versus Emulators/Simulators (Mobile Testing - Part 15)",
+          "url": "https://www.youtube.com/watch?v=i9_U0DE5F9c",
+          "thumbnail": "https://img.youtube.com/vi/i9_U0DE5F9c/0.jpg"
+        },
+        {
+          "title": "Android SDK Emulator and Installing Application Under Test (Mobile Testing - Part 16)",
+          "url": "https://www.youtube.com/watch?v=cOlTQjG3h94",
+          "thumbnail": "https://img.youtube.com/vi/cOlTQjG3h94/0.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "section": {
       "name": "API Testing",
       "tutorials": [
         {
