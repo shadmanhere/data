@@ -275,6 +275,23 @@
   },
   {
     "section": {
+      "name": "Agile",
+      "tutorials": [
+        {
+          "title": "Agile Software Development Process Model",
+          "url": "https://www.youtube.com/watch?v=v9tjYJXcdTs",
+          "thumbnail": "https://img.youtube.com/vi/v9tjYJXcdTs/0.jpg"
+        },
+        {
+          "title": "JIRA : A Complete Tutorial for Beginners || JIRA Agile Test Management",
+          "url": "https://www.youtube.com/watch?v=GnG6RPSRLCs",
+          "thumbnail": "https://img.youtube.com/vi/GnG6RPSRLCs/0.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "section": {
       "name": "Mobile Testing",
       "tutorials": [
         {
@@ -402,6 +419,7 @@
       ]
     }
   },
+  
   {
     "section": {
       "name": "Database Testing",
