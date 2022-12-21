@@ -1,0 +1,49 @@
+[
+    {
+      "section": {
+        "name": "Essentials",
+        "tutorials": [
+          {
+            "title": "JavaScript Crash Course For Beginners",
+            "url": "https://www.youtube.com/watch?v=hdI2bqOjy3c",
+            "thumbnail": "https://img.youtube.com/vi/hdI2bqOjy3c/0.jpg"
+          },
+          {
+            "title": "TypeScript Course for Beginners - Learn TypeScript from Scratch!",
+            "url": "https://www.youtube.com/watch?v=BwuLxPH8IDs",
+            "thumbnail": "https://img.youtube.com/vi/BwuLxPH8IDs/0.jpg"
+          }
+        ]
+      }
+    },
+    {
+        "section": {
+          "name": "Intermediate",
+          "tutorials": [
+            {
+              "title": "Node.js and Express.js - Full Course",
+              "url": "https://www.youtube.com/watch?v=Oe421EPjeBE",
+              "thumbnail": "https://img.youtube.com/vi/Oe421EPjeBE/0.jpg"
+            }
+          ]
+        }
+      },
+    {
+      "section": {
+        "name": "Advance",
+        "tutorials": [
+          {
+            "title": "User Authentication in Web Apps (Passport.js, Node, Express)",
+            "url": "https://www.youtube.com/watch?v=F-sFp_AvHc8",
+            "thumbnail": "https://img.youtube.com/vi/F-sFp_AvHc8/0.jpg"
+          },
+          {
+            "title": "TypeScript Course for Beginners - Learn TypeScript from Scratch!",
+            "url": "https://www.youtube.com/watch?v=BwuLxPH8IDs",
+            "thumbnail": "https://img.youtube.com/vi/BwuLxPH8IDs/0.jpg"
+          }
+        ]
+      }
+    }
+  ]
+  
