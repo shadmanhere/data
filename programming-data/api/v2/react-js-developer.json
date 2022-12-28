@@ -42,5 +42,17 @@
         }
       ]
     }
+  },
+  {
+    "section": {
+      "name": "Interview",
+      "tutorials": [
+        {
+          "title": "React Coding Interview Prep – 30 Questions and Answers",
+          "url": "https://www.youtube.com/watch?v=XBTJDpT2XaI",
+          "thumbnail": "https://img.youtube.com/vi/XBTJDpT2XaI/0.jpg"
+        }
+      ]
+    }
   }
 ]
