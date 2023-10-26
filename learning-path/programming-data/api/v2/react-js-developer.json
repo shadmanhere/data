@@ -1,0 +1,58 @@
+[
+  {
+    "section": {
+      "name": "Essentials",
+      "tutorials": [
+        {
+          "title": "HTML Crash Course For Absolute Beginners",
+          "url": "https://www.youtube.com/watch?v=UB1O30fR-EE",
+          "thumbnail": "https://img.youtube.com/vi/UB1O30fR-EE/0.jpg"
+        },
+        {
+          "title": "CSS Full Course for Beginners | Complete All-in-One Tutorial | 11 Hours",
+          "url": "https://www.youtube.com/watch?v=n4R2E7O-Ngo",
+          "thumbnail": "https://img.youtube.com/vi/n4R2E7O-Ngo/0.jpg"
+        },
+        {
+          "title": "JavaScript Crash Course For Beginners",
+          "url": "https://www.youtube.com/watch?v=hdI2bqOjy3c",
+          "thumbnail": "https://img.youtube.com/vi/hdI2bqOjy3c/0.jpg"
+        },
+        {
+          "title": "React Course - Beginner's Tutorial for React JavaScript Library [2022]",
+          "url": "https://www.youtube.com/watch?v=bMknfKXIFA8",
+          "thumbnail": "https://img.youtube.com/vi/bMknfKXIFA8/0.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "section": {
+      "name": "Advance",
+      "tutorials": [
+        {
+          "title": "Tailwind CSS Full Course for Beginners | Complete All-in-One Tutorial | 3 Hours",
+          "url": "https://www.youtube.com/watch?v=lCxcTsOHrjo",
+          "thumbnail": "https://img.youtube.com/vi/lCxcTsOHrjo/0.jpg"
+        },
+        {
+          "title": "TypeScript Course for Beginners - Learn TypeScript from Scratch!",
+          "url": "https://www.youtube.com/watch?v=BwuLxPH8IDs",
+          "thumbnail": "https://img.youtube.com/vi/BwuLxPH8IDs/0.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "section": {
+      "name": "Interview",
+      "tutorials": [
+        {
+          "title": "React Coding Interview Prep – 30 Questions and Answers",
+          "url": "https://www.youtube.com/watch?v=XBTJDpT2XaI",
+          "thumbnail": "https://img.youtube.com/vi/XBTJDpT2XaI/0.jpg"
+        }
+      ]
+    }
+  }
+]

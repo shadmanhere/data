@@ -1,0 +1,41 @@
+[
+  {
+    "section": {
+      "name": "Essentials",
+      "tutorials": [
+        {
+          "title": "Java Tutorial for Beginners",
+          "url": "https://www.youtube.com/watch?v=eIrMbAQSU34",
+          "thumbnail": "https://img.youtube.com/vi/eIrMbAQSU34/0.jpg"
+        },
+        {
+          "title": "Learn Java 8 - Full Tutorial for Beginners",
+          "url": "https://www.youtube.com/watch?v=grEKMHGYyns",
+          "thumbnail": "https://img.youtube.com/vi/grEKMHGYyns/0.jpg"
+        },
+        {
+          "title": "SQL Tutorial - Full Database Course for Beginners",
+          "url": "https://www.youtube.com/watch?v=HXV3zeQKqGY",
+          "thumbnail": "https://img.youtube.com/vi/HXV3zeQKqGY/0.jpg"
+        }
+      ]
+    }
+  },
+  {
+    "section": {
+      "name": "Intermediate",
+      "tutorials": [
+        {
+          "title": "Spring Boot API with Spring Security and Docker",
+          "url": "https://www.youtube.com/watch?v=0iNmWIi5rG4",
+          "thumbnail": "https://img.youtube.com/vi/0iNmWIi5rG4/0.jpg"
+        },
+        {
+          "title": "Spring Boot 3 + Spring Security 6 - JWT Authentication and Authorisation [NEW] [2023]",
+          "url": "https://www.youtube.com/watch?v=KxqlJblhzfI",
+          "thumbnail": "https://img.youtube.com/vi/KxqlJblhzfI/0.jpg"
+        }
+      ]
+    }
+  }
+]
