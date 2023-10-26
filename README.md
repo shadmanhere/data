@@ -1,4 +1,4 @@
-﻿# learning-path-data
+﻿# data
  
 ## Author:
 
